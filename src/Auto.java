@@ -2,7 +2,6 @@ import java.lang.String;
 public class Auto {
     private int cilindrata;
 
-    private int cicicic;
     private String marca;
     private String targa;
    private String modello;
