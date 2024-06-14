@@ -2,6 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+        System.out.println("dcbdhvbv");
     Auto auto1 = new Auto(300, "Opel", "CN897ZN", "Corsa");
     stampaInfo(auto1);
     auto1.setTarga("NY789XI");
